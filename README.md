@@ -150,9 +150,3 @@ SOFTWARE.
 
 ```
 
-<!-- CONTACT -->
-## Contact
-
-- DM me on Twitter at [@rahulmahesh62](https://twitter.com/rahulmahesh62)
-- Email  me at rahulmahesh62@gmail.com
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
